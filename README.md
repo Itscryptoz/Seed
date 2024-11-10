@@ -1,7 +1,7 @@
 API HAS BEEN UPDATED AND NOW WORKING AGAIN
 
 # SeedCoinBot
-🖱️ clicker for [https://t.me/seed_coin_bot](https://t.me/seed_coin_bot/app?startapp=558455838)
+🖱️ clicker for [https://t.me/seed_coin_bot](http://t.me/seed_coin_bot/app?startapp=695102771)
 
 ## Recommendation before use
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
@@ -20,7 +20,7 @@ API HAS BEEN UPDATED AND NOW WORKING AGAIN
 | Auto-sell worms                                           |     ✅     |
 
 
-## [Settings](https://github.com/sizifart/SeedCoinBot/blob/main/.env-example)
+## [Settings]()
 
 # Use default setting for best performance !
 | Settings                |                                 Description                                 |
